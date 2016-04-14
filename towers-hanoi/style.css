@@ -1,0 +1,29 @@
+.cols {
+  background-color: grey;
+  border: black;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  height: 100px;
+}
+
+.disks {
+  border: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#\1 {
+  width: 50%;
+  background-color: red;
+}
+
+#\2 {
+  width: 75%;
+  background-color: green;
+}
+
+#\3 {
+  width: 100%;
+  background: blue;
+}
